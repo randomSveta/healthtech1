@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "@types/node": "^20.12.2",
+    "express": "^4.19.2",
+    "typescript": "^5.4.3"
   },
   "devDependencies": {
     "eslint": "^8.57.0",
